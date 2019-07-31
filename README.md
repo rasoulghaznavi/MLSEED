@@ -7,12 +7,12 @@ more than 150000 samples in the dataset. The objective is to train models to map
 
 # Prerequisites
 The project is written in python using anaconda in jupyter notebook. Some of the libraries youl'll need in the project are:
-Tensorflow
-sk-Learn
-Numpy
-Pandas
-Matplotlib
-Seaborn
+Tensorflow,
+sk-Learn,
+Numpy,
+Pandas,
+Matplotlib and
+Seaborn.
 
 # Author
 Rasoul Ghaznavi
